@@ -17,4 +17,8 @@ public class MinMax {
         return false;
     }
 
+    public void print(){
+        System.out.println("We are fucked beyond repair");
+    }
+
 }
